@@ -1,10 +1,9 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8CF7A4&pause=1000&width=435&lines=I+am+edenhazard701.;)](https://git.io/typing-svg)
 
-I work as a Software engineer who is more focused on frontend engineering. I have 8+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development using JavaScript, PHP, Python as a primary language and using its frameworks React specifically.
+I work as a Software engineer who has extensive background in Web application development and Devops Engineering. I have 8+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development using JavaScript, PHP, Python as a primary language and using its frameworks React specifically.
 
 ---
 
@@ -35,7 +34,9 @@ I work as a Software engineer who is more focused on frontend engineering. I hav
 <img style="padding:5px;" align="center" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img style="padding:5px;" align="center" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img style="padding:5px;" align="center" alt="Redis" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
 <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img style="padding:5px;" align="center" alt="Go" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 <img style="padding:5px;" align="center" alt="Kubernetes" width="35px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">
 <img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
