@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8CF7A4&pause=1000&width=435&lines=I+am+edenhazard701.;)](https://git.io/typing-svg)
 
-I work as a Software engineer who has extensive background in Web application development and Devops Engineering. I have 8+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development using JavaScript, PHP, Python as a primary language and using its frameworks React specifically.
+I work as a Software engineer who has extensive background in Web application development and Devops Engineering. I have 8+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development Microservice and Database Management  using JavaScript, PHP, Python as a primary language and using its frameworks.
 
 ---
 
